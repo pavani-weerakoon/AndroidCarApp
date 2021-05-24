@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="identify">Identify</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="submit_advanced">Submit</string>
+    <string name="enter_car_name_1">Enter Car Name</string>
+    <string name="enter_car_name_2">Enter Car Name</string>
+    <string name="guess_the_car">Guess the Car</string>
+    <string name="timer">timer</string>
+    <string name="enter_correct_answer">Enter Correct Answer</string>
+    <string name="enter_car_name3">Enter Car Name</string>
+    <string name="how_to_play">How to play</string>
+    <string name="start">start</string>
+    <string name="you_have_to_select_the_correct_car_from_given_picture_from_the_dropdown_menu_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer">You have to select the correct car from given picture from the dropdown menu. If the timer is on you have 10 seconds to submit your answer</string>
+    <string name="you_have_to_select_the_correct_car_from_given_pictures_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer">you have to select the correct car from given pictures.If the timer is on you have 10 seconds to submit your answer </string>
+    <string name="you_have_to_fill_the_blanks_to_choose_correct_answer_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer_and_user_are_given_3_chances">you have_to_fill_the_blanks_to _choose_correct_answer_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer_and _user_are_given_3_chances</string>
+    <string name="you_have_to_answer_the_correct_car_from_given_pictures_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer_user_are_given_3_chances">you have to select the correct car from given pictures.If the timer is on you have 10 seconds to submit your answer and user can use 3 chances.</string>
+    <string name="you_have_to_fill_the_blanks_to_choose_correct_answer_if_the_timer_is_on_you_have_10_seconds_to_submit_your_answer_and_user_can_use_3_chances">you have to fill the blanks to choose correct answer if the timer is on you have 10 seconds to submit your answer and user can use 3 chances</string>
+
+    <string-array name="cars">
+        <item>Audi</item>
+        <item>Benz</item>
+        <item>BMW</item>
+        <item>Lamborghini</item>
+        <item>Nissan</item>
+        <item>Axio</item>
+        <item>Vagannar</item>
+        <item>Allion</item>
+        <item>Rangerover</item>
+        <item>Vitz</item>
+
+        <item>Vessel</item>
+        <item>Yaris</item>
+        <item>Rush</item>
+        <item>Corolla</item>
+        <item>CHR</item>
+        <item>Civic</item>
+        <item>CRZ</item>
+        <item>Ferrari</item>
+        <item>Bugatti</item>
+        <item>Pagani</item>
+
+
+        <item>Agera</item>
+        <item>Jesko</item>
+        <item>Zenvo</item>
+        <item>Hennessy</item>
+        <item>Peel</item>
+        <item>Porsche</item>
+        <item>Mclaren</item>
+        <item>Gemera</item>
+        <item>Camaro</item>
+        <item>Ford</item>
+
+    </string-array>
+
+    <string-array name="carsName">
+        <item>audi</item>
+        <item>benz</item>
+        <item>bmw</item>
+        <item>lamborghini</item>
+        <item>nissan</item>
+        <item>axio</item>
+        <item>vagannar</item>
+        <item>allion</item>
+        <item>rangerover</item>
+        <item>vitz</item>
+
+        <item>vessel</item>
+        <item>yaris</item>
+        <item>rush</item>
+        <item>corolla</item>
+        <item>chr</item>
+        <item>civic</item>
+        <item>crz</item>
+        <item>ferrari</item>
+        <item>bugatti</item>
+        <item>pagani</item>
+
+        <item>agera</item>
+        <item>jesko</item>
+        <item>zenvo</item>
+        <item>hennessy</item>
+        <item>peel</item>
+        <item>porsche</item>
+        <item>mclaren</item>
+        <item>gemera</item>
+        <item>camaro</item>
+        <item>ford</item>
+    </string-array>
+
+</resources>
